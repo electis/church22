@@ -50,7 +50,7 @@ function template_profile(profile) {
 $(document).ready(function() {
     console.log('request data');
     $.ajax({
-        url: 'http://api.electis.ru/profile/',
+        url: 'https://api.electis.ru/profile/',
         type: 'GET',
 //        data: form,
         cache: false,
