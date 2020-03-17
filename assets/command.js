@@ -11,7 +11,7 @@ function template_profile(profile) {
                 <p class="mbr-text mbr-fonts-style status mbr-normal display-4">${profile.function}</p>
                 <p class="mbr-text mbr-fonts-style mbr-normal display-4">${profile.about}</p>
             </div>
-            <div class="ico-wrap"`;
+            <div class="ico-wrap">`;
     if (profile.phone) result += `            
                 <div class="ico-box">
                     <a href="tel:${profile.phone}"><span class="px-2 mbr-iconfont mbr-iconfont-social mbri-mobile2"></span></a>
