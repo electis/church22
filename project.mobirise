@@ -48,7 +48,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 164,
-    "versionPublish": "4.12.1",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /admin",
