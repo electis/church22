@@ -57,7 +57,7 @@ $(document).ready(function() {
         contentType: false,
         processData: false,
         beforeSend: function (xhr) {
-            xhr.setRequestHeader ("Authorization", "Basic "+btoa("test:testtest"));
+            xhr.setRequestHeader ("Authorization", "Token 1e082d63efdd498d672b7531920312157d5b4aeb");
         },
         error: function (data) {
             console.log(data);
