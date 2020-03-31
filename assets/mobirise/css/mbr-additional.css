@@ -9040,6 +9040,10 @@ section.lazy-placeholder:after {
 .cid-rTKxvzSNjl H2 {
   color: #cc2952;
 }
+.cid-rTKxvzSNjl .btn-block {
+  display: block;
+  width: 100%;
+}
 .cid-rTKosFA7pY {
   padding-top: 45px;
   padding-bottom: 45px;
