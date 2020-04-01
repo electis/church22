@@ -32,4 +32,10 @@
 	<url>
 		<loc>https://church22.ru/donate.html</loc>
 	</url>
+	<url>
+		<loc>https://church22.ru/donate_ok.html</loc>
+	</url>
+	<url>
+		<loc>https://church22.ru/donate_fail.html</loc>
+	</url>
 </urlset>

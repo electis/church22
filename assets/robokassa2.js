@@ -7,7 +7,7 @@ $(document).ready(function(){
       url: API_URL,
       data: sum
     }).done(function(data) {
-      console.log('success');
+      console.log(data);
     }).fail(function(data) {
       console.log('fail');
     });
