@@ -1,3 +1,4 @@
+//        var API_URL = ('https:' == location.protocol ? 'https:' : 'http:') + '//api.church22.ru/form/';
 //        var API_URL = ('https:' == location.protocol ? 'https:' : 'http:') + '//api.electis.ru/form/';
 $(function() {
       $('form').submit(function(e) {
