@@ -63,7 +63,6 @@ $(document).ready(function() {
             console.log(data);
         },
         success: function (data) {
-            console.log(data);
             for (const profile of data) {
                 $("#command_list").append(template_profile(profile));
             }
