@@ -57,7 +57,7 @@ $(document).ready(function() {
         contentType: false,
         processData: false,
         beforeSend: function (xhr) {
-            xhr.setRequestHeader ("Authorization", "Token 1e082d63efdd498d672b7531920312157d5b4aeb");
+            xhr.setRequestHeader ("Authorization", "Token 98da89c168b6e415fa6c9dcfe6230100fbf8d510");
         },
         error: function (data) {
             console.log(data);
